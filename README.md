@@ -2,6 +2,8 @@
 
 This bundle improves the Haskell editing experience in [Howl](https://howl.io/) by providing the IDE-like features of [Intero](https://github.com/chrisdone/intero).
 
+![Screenshot](images/screen-show-type.gif)
+
 # Complete Features
 - [x] Show the type of an expression or identifier.
 - [ ] Find uses of an identifier in a module.
