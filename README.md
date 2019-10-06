@@ -4,7 +4,7 @@ This bundle improves the Haskell editing experience in [Howl](https://howl.io/) 
 
 ![Screenshot](images/screen-show-type.gif)
 
-# Complete Features
+## Complete Features
 - [x] Show the type of an expression or identifier.
 - [ ] Find uses of an identifier in a module.
 - [ ] Find definition of an identifier in a module.
@@ -14,17 +14,17 @@ This bundle improves the Haskell editing experience in [Howl](https://howl.io/) 
 
 Please vote for the feature you'd like to get done next in the Issues section.
 
-# Requirements
+## Requirements
 
 - [Stack](https://www.haskellstack.org/)
 - Linux (specifically `bash` and the `script` utility from `util-linux`)
 
-# Installation
+## Installation
 
     $ cd ~/.howl/bundles
     $ git clone https://github.com/dgaw/howl-intero
 
-# Usage
+## Usage
 
 First of all, you should build Intero for the Haskell project you want to use it in.
 
