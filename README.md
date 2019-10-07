@@ -4,7 +4,7 @@ This bundle improves the Haskell editing experience in [Howl](https://howl.io/) 
 
 ![Screenshot](images/screen-show-type.gif)
 
-## Complete Features
+## Features
 - [x] Show the type of an expression or identifier.
 - [ ] Find uses of an identifier in a module.
 - [ ] Find definition of an identifier in a module.
