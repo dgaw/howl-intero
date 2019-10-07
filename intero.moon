@@ -81,8 +81,7 @@ start_intero = ->
     :shell,
     read_stdout: true,
     read_stderr: true,
-    working_directory: get_project_root!,
-    -- working_directory: '/home/damian/Projects/relink',
+    working_directory: get_project_root!
   }
 
   breadcrumbs.drop!
